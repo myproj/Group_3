@@ -1,5 +1,6 @@
 #include "functions.h"
 #include <iostream>
+//extra code
 int factorial(int n){
     while(n<0){std::cin>>n;}
     if(n!=1){
